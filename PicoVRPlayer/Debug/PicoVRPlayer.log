@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  PicoVRPlayerDlg.cpp
+  PicoVRPlayer.cpp
+  PicoImports.cpp
+  正在生成代码...
+  PicoVRPlayer.vcxproj -> D:\WorkspaceForNico\Project_MyUnityMovie\git\VideoDecode\\Debug\Win32\PicoVRPlayer.exe
+  PicoVRPlayer.vcxproj -> D:\WorkspaceForNico\Project_MyUnityMovie\git\VideoDecode\\Debug\Win32\PicoVRPlayer.pdb (Partial PDB)

@@ -1,0 +1,39 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  ffmpeg.cpp
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+Decoders\ffmpeg.cpp(332): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+Decoders\ffmpeg.cpp(339): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+Decoders\ffmpeg.cpp(368): warning C4244: “初始化”: 从“double”转换到“int64_t”，可能丢失数据
+Decoders\ffmpeg.cpp(1213): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+Decoders\ffmpeg.cpp(1247): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+Decoders\ffmpeg.cpp(1251): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+Decoders\ffmpeg.cpp(1255): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+Decoders\ffmpeg.cpp(2057): warning C4244: “=”: 从“double”转换到“uint64_t”，可能丢失数据
+Decoders\ffmpeg.cpp(2075): warning C4244: “=”: 从“double”转换到“uint64_t”，可能丢失数据
+Decoders\ffmpeg.cpp(2317): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+Decoders\ffmpeg.cpp(2410): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+Decoders\ffmpeg.cpp(2418): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+Decoders\ffmpeg.cpp(2453): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Decoders\ffmpeg.cpp(2454): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Decoders\ffmpeg.cpp(2455): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Decoders\ffmpeg.cpp(2456): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ffmpeg_local.cpp
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+Decoders\ffmpeg_local.cpp(264): warning C4244: “参数”: 从“double”转换到“int64_t”，可能丢失数据
+  ffmpeg_online.cpp
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+Decoders\ffmpeg_online.cpp(67): warning C4244: “=”: 从“double”转换到“uint64_t”，可能丢失数据
+Decoders\ffmpeg_online.cpp(442): warning C4244: “参数”: 从“double”转换到“int64_t”，可能丢失数据
+Decoders\ffmpeg_online.cpp(723): warning C4102: “free”: 未引用的标签
+Decoders\ffmpeg_online.cpp(818): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+Decoders\ffmpeg_online.cpp(1036): warning C4244: “=”: 从“double”转换到“uint64_t”，可能丢失数据
+  PicoPlugin.cpp
+  FFNativeMovie.cpp
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+FFNativeMovie.cpp(50): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+  stdafx.cpp
+    正在创建库 D:\WorkspaceForNico\Project_MyUnityMovie\git\VideoDecode\\Release\Win32\PicoDecoder.lib 和对象 D:\WorkspaceForNico\Project_MyUnityMovie\git\VideoDecode\\Release\Win32\PicoDecoder.exp
+  正在生成代码
+  All 496 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  FFNativeMovie.vcxproj -> D:\WorkspaceForNico\Project_MyUnityMovie\git\VideoDecode\\Release\Win32\PicoDecoder.dll

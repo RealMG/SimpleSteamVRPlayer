@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  ffmpeg.cpp
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(331): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(338): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(367): warning C4244: “初始化”: 从“double”转换到“int64_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(906): warning C4244: “=”: 从“double”转换到“uint32_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(907): warning C4244: “=”: 从“double”转换到“uint32_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(1209): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(1243): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(1247): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(1251): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(2044): warning C4244: “=”: 从“double”转换到“uint64_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(2062): warning C4244: “=”: 从“double”转换到“uint64_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(2282): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(2375): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(2383): warning C4244: “=”: 从“double”转换到“int32_t”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(2403): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(2404): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(2405): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workspacefornico\project_myunitymovie\git\videodecode\ffnativemovie\decoders\ffmpeg.cpp(2406): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  FFNativeMovie.vcxproj -> D:\WorkspaceForNico\Project_MyUnityMovie\git\VideoDecode\\Debug\Win32\PicoDecoder.dll
+  FFNativeMovie.vcxproj -> D:\WorkspaceForNico\Project_MyUnityMovie\git\VideoDecode\\Debug\Win32\PicoDecoder.pdb (Partial PDB)
